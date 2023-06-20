@@ -1,0 +1,13 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	text-align: center;
+	color:black;
+}
+.ft{
+	color:blue;
+}
+.bc{
+	box-shadow:2px 2px 6px black;
+}
